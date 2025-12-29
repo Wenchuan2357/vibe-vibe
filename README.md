@@ -1,26 +1,7 @@
 # Vibe Vibe —— 人人都能学会的 AI 编程（Vibe Coding）指南
 > **面向零编程基础学习者的 AI 辅助编程系统化教程，从「我有一个想法」到「我做出了一个产品」，让人人都能成为 Builder。**
 
-- 点击以访问教程主页：www.vibevibe.cn 
-<!--
-<p align="center">
- <a href='https://mapmyvisitors.com/web/1c0yh'  title='Visit tracker'>
-     <img src='https://mapmyvisitors.com/map.png?cl=080808&w=500&t=tt&d=U-O2EHPRXuWE3LRkAfA07tfWl3EMsjKKCXu6p0EO-Xg&co=ffffff&ct=808080' width="40%" />
- </a>
-</p>
--->
-
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://api.star-history.com/svg?repos=datawhalechina/vibe-vibe&type=Date" alt="Star History Chart" width="100%">
-    </td>
-    <td width="50%">
-      <a href='https://mapmyvisitors.com/web/1c0yh'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=500&t=tt&d=U-O2EHPRXuWE3LRkAfA07tfWl3EMsjKKCXu6p0EO-Xg&co=ffffff&ct=808080'/></a>
-    </td>
-  </tr>
-</table>
+点击以访问教程主页：www.vibevibe.cn
 
 ### 核心理念
 
@@ -67,12 +48,12 @@
 
 | 姓名&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 职责 | 简介 |
 | :----| :---- | :---- |
+| [符航康](https://www.hangkangfu.cn) | 项目负责人 & 核心贡献者 | 一名 AI 原生的年轻人，湖南大学24级本科生|
 | [齐国皓](https://www.guohaoqi.cn) | 项目负责人 & 核心贡献者 | 现就读于新加坡国立大学计算机学院, 湖南大学金融科技协会创始人|
-| [符航康](https://www.hangkangfu.cn) | 项目负责人 & 核心贡献者 | 湖南大学金融科技协会创始成员, 一名 AI 原生的年轻人，湖南大学信息科学与工程学院24级本科生|
+| 刘磊 | 「文章、实践篇」贡献者、图像贡献者 | 中国科学院大学，一枚在职后端 Coder，热爱 Vibe，崇尚分享。 |
 | 陈俊希 | 「优质文章篇」板块贡献者 | 湖南大学金融科技协会现任会长，湖南大学金融与统计学院24级本科生 |
 | 金龙   |「实践篇」板块贡献者  | 北京大学学生创新学社AI俱乐部副部长，北京大学24级研究生| 
 | 舒璐璐 | 「实践篇」板块贡献者 | 湖南大学「麓山人文+」创始人，湖南大学岳麓书院23级本科生 |
-| 刘磊 | 「优质文章篇」、「实践篇」贡献者 | 中国科学院大学，一枚在职后端 Coder，热爱 Vibe，崇尚分享。 |
 
 ## 目录
 
@@ -285,6 +266,10 @@
 <p>扫描下方二维码关注公众号：Datawhale</p>
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
 </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/vibe-vibe&type=Date)](https://star-history.com/#datawhalechina/vibe-vibe&Date)
 
 ## LICENSE
 
